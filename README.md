@@ -9,6 +9,8 @@ You can easily use this library by calling the assembler macros included
 RECTANGLE, HORIZONTAL_LINE, VERTICAL_LINE, LCD_ON, DISPLAY_BMP, which are used in the
 source code.
 
+The low level instructions can be found [here](https://github.com/Ripagood/AVR_ASM_KS0108/blob/master/LCD/instructions.png)
+
 To display an image, first convert it to .db notation and include in your code.
 
 
