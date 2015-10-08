@@ -1,0 +1,76 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1117\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1117\avrassembler\Include\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\Debug/LCD.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LCD.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LCD.map</FILE>
+  <FILE>LCD.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <delay10ms><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>522</LINE></delay10ms>
+  <LCD_ON><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>426</LINE></LCD_ON>
+  <SET_X><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>405</LINE></SET_X>
+  <SET_Y><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>412</LINE></SET_Y>
+  <WRITE_D><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>464</LINE></WRITE_D>
+  <SET_XY><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>315</LINE></SET_XY>
+  <delay1s><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>545</LINE></delay1s>
+  <CLEAR_LCD><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>173</LINE></CLEAR_LCD>
+  <other_page_bmp><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>186</LINE></other_page_bmp>
+  <LCD_OFF><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>437</LINE></LCD_OFF>
+  <other_start><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>156</LINE></other_start>
+  <SET_DISPLAY_START_LINE><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>419</LINE></SET_DISPLAY_START_LINE>
+  <end><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>171</LINE></end>
+  <OTHER_CLEAR_LCD><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>175</LINE></OTHER_CLEAR_LCD>
+  <CLEAR_PAGE><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>205</LINE></CLEAR_PAGE>
+  <other_page_y_bmp_2><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>190</LINE></other_page_y_bmp_2>
+  <SELECT_CHIP><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>221</LINE></SELECT_CHIP>
+  <other_page_y><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>210</LINE></other_page_y>
+  <SELECT_CHIP_2><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>228</LINE></SELECT_CHIP_2>
+  <SELECT_CHIP_1><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>224</LINE></SELECT_CHIP_1>
+  <CLEAR_XY><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>235</LINE></CLEAR_XY>
+  <LIGHT_Y_CS2><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>250</LINE></LIGHT_Y_CS2>
+  <LIGHT_Y_CS1><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>238</LINE></LIGHT_Y_CS1>
+  <X_CALC_LIGHT><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>264</LINE></X_CALC_LIGHT>
+  <DIRECT_X_light><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>292</LINE></DIRECT_X_light>
+  <OTHER_PAGE_NUMBER_LIGHT><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>269</LINE></OTHER_PAGE_NUMBER_LIGHT>
+  <SHIFT_X><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>393</LINE></SHIFT_X>
+  <READ_D><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>471</LINE></READ_D>
+  <Y_CS2><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>330</LINE></Y_CS2>
+  <Y_CS1><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>318</LINE></Y_CS1>
+  <X_CALC><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>345</LINE></X_CALC>
+  <DIRECT_X><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>372</LINE></DIRECT_X>
+  <OTHER_PAGE_NUMBER><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>350</LINE></OTHER_PAGE_NUMBER>
+  <other_shift><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>397</LINE></other_shift>
+  <WRITE_I><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>457</LINE></WRITE_I>
+  <TRIGGER_ENABLE><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>448</LINE></TRIGGER_ENABLE>
+  <delay10us><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>493</LINE></delay10us>
+  <delay1us><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>512</LINE></delay1us>
+  <ciclo_delay10us><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>496</LINE></ciclo_delay10us>
+  <delay5us><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>502</LINE></delay5us>
+  <ciclo_delay5us><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>505</LINE></ciclo_delay5us>
+  <ciclo_delay1us><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>515</LINE></ciclo_delay1us>
+  <ciclo1><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>526</LINE></ciclo1>
+  <ciclo><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>527</LINE></ciclo>
+  <delay100ms><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>535</LINE></delay100ms>
+  <other_delay100ms><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>538</LINE></other_delay100ms>
+  <other_delay1s><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>548</LINE></other_delay1s>
+  <delay10s><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>555</LINE></delay10s>
+  <other_delay10s><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>558</LINE></other_delay10s>
+  <delay5s><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>565</LINE></delay5s>
+  <other_delay5s><FILE>C:\Documents and Settings\Admin\my documents\atmel studio\6.2\LCD\LCD\LCD.asm</FILE><LINE>568</LINE></other_delay5s>
+ </LABELS>
+</ASSEMBLER_INFO>
